@@ -27,7 +27,11 @@
     <li><strong>Moral Dilemmas</strong>: The show raises thought-provoking questions about morality, punishment, and the nature of good and evil.</li>
 </ul>
 
+![Screenshot 2023-12-05 203531](https://github.com/KynthMarcaida/App-dev/assets/152583675/a24d76b9-692d-4bf4-8f71-e017770270fd)
 
+<blockquote>
+    "Lucifer" is a delightful mix of crime-solving, supernatural intrigue, and character development, making it a must-watch for those who enjoy a blend of mystery and the otherworldly.
+</blockquote>
 
 </body>
 </html>
